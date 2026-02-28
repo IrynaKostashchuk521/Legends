@@ -33,7 +33,7 @@ public class InputReader : MonoBehaviour, Controls.IDialogActions
     {
         if(context.canceled && _clickNext.DialoguePlay)
         {
-            _clickNext.ContinueStore(_clickNext._ChoiceButtonPanel.activeInHierarchy); //Історія не буде закінчуватись до поки панека з кнопками буде активна.
+            _clickNext.ContinueStory(_clickNext.ChoiceButtonPanel.activeInHierarchy); //Історія не буде закінчуватись до поки панека з кнопками буде активна.
         }
     }
 }

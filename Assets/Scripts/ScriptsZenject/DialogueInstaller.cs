@@ -11,6 +11,7 @@ public class DialogueInstaller : MonoBehaviour
 
     //Для діалога.
     public GameObject DialoguePanel;
+    public GameObject BackgroundDialogPanel;
     public TextMeshProUGUI Textdialogue;
     public TextMeshProUGUI NameCharacter;
 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: aadb00a4421994c498d6049d510c630c
+guid: 9d16aa901f43d964c8db018531c9da3a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8708910898795508042
-    second: Airbrush-ImageCartoon-1770029227540_0
+      213: -6065351763808315369
+    second: "\u0441\u0446\u0435\u043D\u0430_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Airbrush-ImageCartoon-1770029227540_0
+      name: "\u0441\u0446\u0435\u043D\u0430_0"
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 736
-        height: 976
+        width: 1536
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a41fb3712544cd870800000000000000
-      internalID: 8708910898795508042
+      spriteID: 7189a68d4ba83dba0800000000000000
+      internalID: -6065351763808315369
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Airbrush-ImageCartoon-1770029227540_0: 8708910898795508042
+      "\u0441\u0446\u0435\u043D\u0430_0": -6065351763808315369
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
